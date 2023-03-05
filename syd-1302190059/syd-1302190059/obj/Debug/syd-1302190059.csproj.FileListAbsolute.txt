@@ -1,0 +1,11 @@
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\bin\Debug\syd-1302190059.exe.config
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\bin\Debug\syd-1302190059.exe
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\bin\Debug\syd-1302190059.pdb
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd-1302190059.csproj.AssemblyReference.cache
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd-1302190059.csproj.SuggestedBindingRedirects.cache
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd_1302190059.Form1.resources
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd_1302190059.Properties.Resources.resources
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd-1302190059.csproj.GenerateResource.cache
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd-1302190059.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd-1302190059.exe
+D:\kuliah\Semester 8\KPL\TP\modul3\syd-1302190059\syd-1302190059\obj\Debug\syd-1302190059.pdb
